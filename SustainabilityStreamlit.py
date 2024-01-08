@@ -10,3 +10,4 @@ st.title('Change in Renewable energy consumption over time for 10 countries with
 st.line_chart(chart_data)
 st.write('World Sustainablity Dataset from:')
 st.write('https://www.kaggle.com/datasets/truecue/worldsustainabilitydataset?resource=download')
+st.write('By Asher Long')
